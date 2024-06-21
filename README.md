@@ -20,9 +20,9 @@ public class skills {
 
 ## About Me 🧍‍♂️
 
-I first started off coding with <a href="https://github.com/VincentQu888/ccc-solutions">competitive programming</a>, and after a while, I eventually branched out to teaching coding and working on several projects I was interested in!
+I first started off coding with <a href="https://github.com/VincentQu888/ccc-solutions" target="_blank">competitive programming</a>, and after a while, I eventually branched out to teaching coding and working on several projects I was interested in!
 
-I've recently found myself interested in AI and its applications in NLP, so I've been learning about and <a href="https://github.com/VincentQu888/Snowy">applying</a> it in projects.
+I've recently found myself interested in AI and its applications in NLP, so I've been learning about and <a href="https://github.com/VincentQu888/Snowy" target="_blank">applying</a> it in projects.
 
 <br/>
 
