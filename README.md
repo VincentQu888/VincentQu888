@@ -38,6 +38,6 @@ I've recently found myself interested in AI and its applications in NLP, so I've
 
 <strong>Other Fun Facts:</strong>
 <ol>
-  <li>I also love video games! I was ascendant in Valorant and have beaten multiple extreme demons in Geometry Dash. I've spent time playing Overwatch, Minecraft and Tetris as well.</li>
+  <li>I also love video games! I was ascendant in Valorant, have beaten multiple extreme demons in Geometry Dash, and spent a lot of time playing ranked bedwars and other Minecraft PvP. I've spent time playing Overwatch, Minecraft and Tetris as well.</li>
   <li>When I was younger, I always explored new hobbies. I've spent time dabbling in rubik's cubes, chess, radio-controlled aircraft taekwondo, soccer and badminton, among other things.</li>
 </ol>
