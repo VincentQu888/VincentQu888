@@ -8,7 +8,7 @@ I am currently a high school student at Dr. G.W. Williams Secondary School in Au
 public class skills {
     public static void main(String[] args) {
         String[] languages = {"Java", "C++", "Python", "C#", "HTML", "CSS", "JavaScript", "SQL"};
-        String[] technologies = {"Heroku, Tailwind, MySQL, Spring Boot, Django, PyTorch"};
+        String[] technologies = {"Heroku", "Tailwind", "MySQL", "Spring Boot", "Django", "PyTorch"};
         String[] interests = {"Teaching", "Competitive Programming", "Artificial Intelligence", "Web Development", "Cybersecurity", "Robotics"};
         
         System.out.println("Thanks for reading through the profile!");
