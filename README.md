@@ -1,6 +1,6 @@
 ## Hey there, I'm Vincent 👋
 
-I am currently a high school student at Dr. G.W. Williams Secondary School in Aurora, Ontario. I am extremely passionate about, and dedicated to coding and computer science.
+I'm currently a first year at UofT studying computer science!
 
 <br/>
 
@@ -34,10 +34,3 @@ I've recently found myself interested in AI and its applications in NLP, so I've
   <img src="https://badges.pufler.dev/years/VincentQu888"/>  
 </div>
 
-<br/>
-
-<strong>Other Fun Facts:</strong>
-<ol>
-  <li>I also love video games! I was ascendant in Valorant, have beaten multiple extreme demons in Geometry Dash, and spent a lot of time playing ranked bedwars and other Minecraft PvP. I've spent time playing Overwatch, Minecraft and Tetris as well.</li>
-  <li>When I was younger, I always explored new hobbies. I've spent time dabbling in video editing, rubik's cubes, chess, radio-controlled aircraft, taekwondo, soccer and badminton, among other hobbies</li>
-</ol>
