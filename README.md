@@ -10,6 +10,7 @@ public class skills {
         String[] languages = {"Java", "C++", "Python", "HTML", "CSS", "JavaScript/TypeScript", "SQL"};
         String[] technologies = {"PyTorch", "Spring", "ReactJS", "Flask", "MySQL", "Tailwind", "Thymeleaf"};
         String[] interests = {"Reinforcement Learning", "Machine Learning", "Quantitative Finance", "Competitive Programming", "Web Development"};
+        String[] hobbies = {"Poker", "Badminton", "Geometry Dash", "Valorant", "Minecraft", "Video Editing"};
         
         System.out.println("Thanks for reading through the profile!");
     }
