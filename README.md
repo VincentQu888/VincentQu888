@@ -1,5 +1,5 @@
 CS @ UofT + Schulich Leader Scholarship
 
-Incoming @ Shopify
+SWE @ Shopify
 
 Learning about ML
