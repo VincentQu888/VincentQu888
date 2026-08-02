@@ -4,4 +4,4 @@ SWE @ Shopify
 
 Learning about ML
 
-<a href="vincent-qu.vercel.app/">vincent-qu.vercel.app/</a>
+<a href="https://vincent-qu.vercel.app/">vincent-qu.vercel.app/</a>
